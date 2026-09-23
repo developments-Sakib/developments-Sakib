@@ -16,10 +16,10 @@ I want to make the world greener, and I've chosen emissions modelling as the way
 
 | Stage | Project |
 |---|---|
-| CUET, 1st year (2022) | Feasibility of metro rail for Chittagong |
-| CUET, 2nd year | Feasibility of electric auto-rickshaws in Chittagong — poster at ICCE |
+| CUET, 1st year | Feasibility of metro rail for Chittagong |
+| CUET, 2nd year | Feasibility of electric auto-rickshaws in Chittagong -- poster at ICTD-2024 |
 | CUET, 3rd year | Optimising Chittagong's paratransit system with a mixed EV fleet and charging infrastructure siting |
-| CUET, 4th year | Thesis: localised truck emissions inventory and local emission factors for the Chittagong Port area |
+| CUET, 4th year | Thesis: Developing localized truck emissions inventory and local emission factors for the Chittagong Port area -- paper at ICTD-2026 |
 | Internship, IWM | Dispersion modelling with AERMOD, satellite data collection, drone survey |
 | Post-graduation | PM2.5 prediction from satellite AOD data, with transfer modelling (Khulshi predicted from Agrabad) |
 | Current | Research Assistant, UW–BUET — National Emissions Inventory |
@@ -27,21 +27,20 @@ I want to make the world greener, and I've chosen emissions modelling as the way
 ## 🛰️ Data collection
 
 Comfortable collecting data on the ground and from above:
-**GPS speed profiling · traffic and field surveys · satellite retrievals · drone surveys**
+**GPS speed profiling · traffic surveys · satellite retrievals · drone surveys**
 
 ## 🧰 Tools
 
-**Modelling:** EPA MOVES · COPERT · InMAP · AERMOD · SARIMAX
-**Programming:** Python · Jupyter · GeoPandas · Folium
-**GIS & data:** ArcGIS · Excel
+**Modelling:** EPA MOVES · COPERT · InMAP · AERMOD 
+**Programming:** Python · R . C++
+**GIS & data:** ArcGIS 
 
 ## 📫 Connect
 
-<!-- Add your links below, then delete this comment -->
-- LinkedIn: <!-- your LinkedIn URL -->
-- Email: <!-- your email -->
+- LinkedIn: <www.linkedin.com/in/sakib-ce>
+- Email: <sakib.ce.2026@gmail.com>
 
 ---
 
-*Interested in transport emissions, vehicle electrification, and cleaner air for fast-growing cities.*
+*Interested in transport emissions, vehicle electrification, and system optimization for fast growing cities.*
 
