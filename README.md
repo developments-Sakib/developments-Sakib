@@ -18,11 +18,11 @@ I want to make the world greener, and I've chosen emissions modelling as the way
 | Stage | Project |
 |---|---|
 | CUET, 1st year  | Feasibility of metro rail for Chittagong |
-| CUET, 2nd year  | Feasibility of electric auto-rickshaws in Chittagong |
+| CUET, 2nd year| Feasibility of electric auto-rickshaws in Chittagong |
 | CUET, 3rd year  | Optimizing paratransit system in developing cities through data-driven trip extraction and mixed fleet scheduling |
 | CUET, 4th year  | Developing heavy duty vehicle (HDV) emissions inventory and local emission factors for the Chittagong Port area |
-| IWM, Internship | Hourly PM2.5 Imputation from Satellite AOD through Evaluating Seasonal Correlation and Model Spatial Transferability of Chittagong |
-| Current         | National Emissions Inventory Development|
+| IWM, Internship | Hourly PM2.5 imputation from satellite AOD through evaluating seasonal correlation and model spatial transferability of chittagong |
+| Current         | National emissions inventory development|
 
 ## 🛰️ Data collection
 
