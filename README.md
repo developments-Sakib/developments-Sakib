@@ -17,13 +17,12 @@ I want to make the world greener, and I've chosen emissions modelling as the way
 
 | Stage | Project |
 |---|---|
-| CUET, 1st year | Feasibility of metro rail for Chittagong |
-| CUET, 2nd year | Feasibility of electric auto-rickshaws in Chittagong |
-| CUET, 3rd year | Optimizing Paratransit System in Developing Cities through Data-Driven Trip Extraction and Mixed Fleet Scheduling |
-| CUET, 4th year | Thesis: Developing localized truck emissions inventory and local emission factors for the Chittagong Port area |
-| Internship, IWM | Dispersion modelling with AERMOD, satellite data collection, drone survey |
-| Post-graduation | PM2.5 prediction from satellite AOD data, with transfer modelling (Khulshi predicted from Agrabad) |
-| Current | Research Assistant, UW–BUET — National Emissions Inventory Development|
+| CUET, 1st year  | Feasibility of metro rail for Chittagong |
+| CUET, 2nd year  | Feasibility of electric auto-rickshaws in Chittagong |
+| CUET, 3rd year  | Optimizing paratransit system in developing cities through data-driven trip extraction and mixed fleet scheduling |
+| CUET, 4th year  | Developing heavy duty vehicle (HDV) emissions inventory and local emission factors for the Chittagong Port area |
+| IWM, Internship | Hourly PM2.5 Imputation from Satellite AOD through Evaluating Seasonal Correlation and Model Spatial Transferability of Chittagong |
+| Current         | National Emissions Inventory Development|
 
 ## 🛰️ Data collection
 
