@@ -1,8 +1,7 @@
 # Hi, I'm Sadman Sakib 👋
 
 **Research Assistant, University of Washington – BUET Air Pollution Research Project**
-
-Civil Engineering graduate, CUET · Dhaka, Bangladesh**
+Civil Engineering graduate, CUET · Dhaka, Bangladesh
 
 I want to make the world greener, and I've chosen emissions modelling as the way to do it. My work sits where air pollution, transport, and data meet.
 
